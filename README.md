@@ -1,3 +1,4 @@
+
 <!-- Describe this theme/component in one or two sentences -->
 
 A clean & modern theme with a handful of theme-components included to enhance your forum!
